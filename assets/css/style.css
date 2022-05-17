@@ -87,6 +87,9 @@ color: white;
 section{
     background-color: rgba(236, 235, 255, 0.6);
     height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .col-6-b{
@@ -97,6 +100,9 @@ section{
 .col-2-b{
     width: 186px;
     height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 ul{
